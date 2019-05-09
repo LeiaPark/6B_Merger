@@ -1,4 +1,4 @@
-# hw6B Notes
+# hw6B Note
 
 In UserOfMerge.java, the test will always give false.
 
