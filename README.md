@@ -1,3 +1,11 @@
+# hw6B Notes
+
+In UserOfMerge.java, the test will always give false.
+
+This is because in the alphabet, "K" is before "Q".
+However, with cards, "Q" is before "K".
+Since Java follows the hierarchy of the alphabet, NOT cards, the test will always give false.
+
 # merge sorted lists
 
 The lists are stored
